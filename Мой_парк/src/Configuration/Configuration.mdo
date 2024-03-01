@@ -48,6 +48,7 @@
   <roles>Role.ПолныеПрава</roles>
   <roles>Role.Кассир</roles>
   <roles>Role.ОператорАттракциона</roles>
+  <constants>Constant.Константа</constants>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>
